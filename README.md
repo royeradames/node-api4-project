@@ -1,3 +1,9 @@
+# API's for this week
+Monday: https://users-api-royer-adames.herokuapp.com/
+Wednesday: https://royer-adames-node-api3-project.herokuapp.com/users
+
+Wendnesday Meets stretch goals
+
 # Web API IV Challenge
 
 In this challenge, you will **deploy** an API of your choosing to `heroku`.
