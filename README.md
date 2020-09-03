@@ -2,7 +2,7 @@
 Monday: https://users-api-royer-adames.herokuapp.com/
 Wednesday: https://royer-adames-node-api3-project.herokuapp.com/users
 
-Wendnesday Meets stretch goals
+Wednesday Meets stretch goals
 
 # Web API IV Challenge
 
